@@ -61,4 +61,9 @@ It allows:
 [**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
 [**Traffic Signal Helmet Compilance**](https://github.com/Iniiyavan/Traffic-Signal-Helmet-Compilance/blob/main/README.md)
 [**Groom Goo**]()
+
+---
+
+## 👍 Follow Me
+[GitHub](https://github.com/Iniiyavan) 🐙 | [LinkedIn](https://www.linkedin.com/in/iniyavan-m-501b782b3) 🔗 | [Portfolio](#) 💼 | [Email](mailto:iniyavanoff@gmail.com) 📧 
    
